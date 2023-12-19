@@ -2,7 +2,7 @@
 
 <!--[![GitHub Header](https://github.com/Suresh-Jat/Suresh-Jat/assets/91081774/12d7b148-a643-4280-8e88-b1883684456e)](https://SureshJat.me/)-->
 
-[![GitHub Header](/banner.png)](https://SureshJat.me/)
+<!--[![GitHub Header](/banner.png)](https://SureshJat.me/)
 
 
 <!--[![GitHub Header](https://github.com/Suresh-Jat/Suresh-Jat/assets/91081774/e8a1371a-9f83-4cc0-995a-f2d136e8446e)](https://SureshJat.me/)-->
@@ -30,7 +30,7 @@
 
 <h1> About </h1> 
     
- <p> Hey there! I am Suresh!😎😁 A Computer Science Undergrad, with a love for technology and entrepreneurship.👩‍💻 .🔎 I also enjoy creating stuffs- projects, written content, models, games,etc. as it gives me an outlet to convey my ideas and share my insights! I am passionate about Game Development, the physics behind it!! I believe that this constant drive to learn and grow and explore more. I am excited to take on new challenges and work with a team that shares my enthusiasm.💡 Additionally, I'm eager to work on diverse projects that can mend the numerous vulnerabilities.🎗️Furthermore, I am confident that my problem-solving proficiency will be of vital importance :)
+ <p> Hey there! I am Suresh!😎😁 A Computer Science Undergrad, with a love for technology and entrepreneurship.👩‍💻 .🔎 I also enjoy creating stuffs- projects, written content, models, apps,etc. as it gives me an outlet to convey my ideas and share my insights! I am passionate about App Development. I believe that this constant drive to learn and grow and explore more. I am excited to take on new challenges and work with a team that shares my enthusiasm.💡 Additionally, I'm eager to work on diverse projects that can mend the numerous vulnerabilities.🎗️Furthermore, I am confident that my problem-solving proficiency will be of vital importance :)
 </p>
 
 <!--About Ends-->
