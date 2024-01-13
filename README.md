@@ -1,51 +1,24 @@
-<div align="center">
-
-<!--[![GitHub Header](https://github.com/Suresh-Jat/Suresh-Jat/assets/91081774/12d7b148-a643-4280-8e88-b1883684456e)](https://SureshJat.me/)-->
-
-<!--[![GitHub Header](/banner.png)](https://SureshJat.me/)
-
-
-<!--[![GitHub Header](https://github.com/Suresh-Jat/Suresh-Jat/assets/91081774/e8a1371a-9f83-4cc0-995a-f2d136e8446e)](https://SureshJat.me/)-->
-
 <!--Socials-->
 
 <div align="center">
 
-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/suresh_._20/) 
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-jat-a77712227/) 
-   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SURESHJ808091) 
+   
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suresh-jat/) 
+   [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sureshjat20092002) 
+   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/SURESH__JAT) 
 
-<div>
-<!--Snake Contribution Graph-->    
-    
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contribution.svg)
-    
-<br/>
-    
-<!--Snake Contribution Graph Ends--> 
- 
-    
-    
+
+
 <!--About-->
 
 <h1> About </h1> 
-    
- <p> Hey there! I am Suresh!😎😁 A Computer Science Undergrad, with a love for technology and entrepreneurship.👩‍💻 .🔎 I also enjoy creating stuffs- projects, written content, models, apps,etc. as it gives me an outlet to convey my ideas and share my insights! I am passionate about App Development. I believe that this constant drive to learn and grow and explore more. I am excited to take on new challenges and work with a team that shares my enthusiasm.💡 Additionally, I'm eager to work on diverse projects that can mend the numerous vulnerabilities.🎗️Furthermore, I am confident that my problem-solving proficiency will be of vital importance :)
+
+<p> Hey there! I am Suresh!😎😁 A Computer Science Undergrad, with a love for technology and entrepreneurship.👩‍💻 .🔎 I also enjoy creating stuffs- projects, written content, models, apps, etc. as it gives me an outlet to convey my ideas and share my insights! I am passionate about App Development. I believe that this constant drive to learn and grow and explore more. I am excited to take on new challenges and work with a team that shares my enthusiasm.💡 Additionally, I'm eager to work on diverse projects that can mend the numerous vulnerabilities. Furthermore, I am confident that my problem-solving proficiency will be of vital importance :)
 </p>
 
 <!--About Ends-->
-    
-<!--Recent Activity & Streaks-->
 
 ![Suresh-Jat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Suresh-Jat&theme=radical&hide_border=false)
-
-<!--BADGE-->
-<div>
-<img height="190" src="https://github.com/Suresh-Jat/Suresh-Jat/assets/91081774/7e007fd7-ebbe-4318-a953-f6a270c7f581">
-</div>
-
-
-<!--Recent Activity & Streaks End-->    
 
 <details>
 <summary>𝕿𝖊𝖈𝖍𝖓𝖎𝖈𝖆𝖑 𝕸𝖊𝖒𝖊𝖘</summary>
@@ -65,15 +38,10 @@
 </details>
 <!--Quote of the Day Ends-->
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Suresh-Jat&column=8&row=1&theme=dracula&no-frame=true)
 
 <!--Trophy Ends-->
-<!--[![An image of @SureshJat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/SureshJat)](https://holopin.io/@SureshJat)-->
-
-<!--![Badges](https://github.com/Suresh-Jat/Suresh-Jat/assets/91081774/7e007fd7-ebbe-4318-a953-f6a270c7f581)-->
-
 
 
 <!--RickRoll-->
